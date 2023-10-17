@@ -1,0 +1,29 @@
+C:\Users\damccue\source\repos\FindPrinter\bin\Debug\FindPrinter.exe.config
+C:\Users\damccue\source\repos\FindPrinter\bin\Debug\FindPrinter.exe
+C:\Users\damccue\source\repos\FindPrinter\bin\Debug\FindPrinter.pdb
+C:\Users\damccue\source\repos\FindPrinter\obj\Debug\FindPrinter.csproj.AssemblyReference.cache
+C:\Users\damccue\source\repos\FindPrinter\obj\Debug\FindPrinter.csproj.CoreCompileInputs.cache
+C:\Users\damccue\source\repos\FindPrinter\obj\Debug\FindPrinter.exe
+C:\Users\damccue\source\repos\FindPrinter\obj\Debug\FindPrinter.pdb
+C:\Users\damccue\Desktop\MS Code Run\FindPrinter\FindPrinter\bin\Debug\FindPrinter.exe.config
+C:\Users\damccue\Desktop\MS Code Run\FindPrinter\FindPrinter\bin\Debug\FindPrinter.exe
+C:\Users\damccue\Desktop\MS Code Run\FindPrinter\FindPrinter\bin\Debug\FindPrinter.pdb
+C:\Users\damccue\Desktop\MS Code Run\FindPrinter\FindPrinter\obj\Debug\FindPrinter.csproj.AssemblyReference.cache
+C:\Users\damccue\Desktop\MS Code Run\FindPrinter\FindPrinter\obj\Debug\FindPrinter.csproj.CoreCompileInputs.cache
+C:\Users\damccue\Desktop\MS Code Run\FindPrinter\FindPrinter\obj\Debug\FindPrinter.exe
+C:\Users\damccue\Desktop\MS Code Run\FindPrinter\FindPrinter\obj\Debug\FindPrinter.pdb
+C:\Users\damccue\Desktop\MS Code Run\FindPrinter\FindPrinter\bin\Debug\FindPrinter.exe.manifest
+C:\Users\damccue\Desktop\MS Code Run\FindPrinter\FindPrinter\bin\Debug\FindPrinter.application
+C:\Users\damccue\Desktop\MS Code Run\FindPrinter\FindPrinter\obj\Debug\FindPrinter.exe.manifest
+C:\Users\damccue\Desktop\MS Code Run\FindPrinter\FindPrinter\obj\Debug\FindPrinter.application
+C:\Users\damccue\Desktop\PrinterSearching\FindPrinter\FindPrinter\bin\Debug\FindPrinter.exe.config
+C:\Users\damccue\Desktop\PrinterSearching\FindPrinter\FindPrinter\bin\Debug\FindPrinter.exe.manifest
+C:\Users\damccue\Desktop\PrinterSearching\FindPrinter\FindPrinter\bin\Debug\FindPrinter.application
+C:\Users\damccue\Desktop\PrinterSearching\FindPrinter\FindPrinter\bin\Debug\FindPrinter.exe
+C:\Users\damccue\Desktop\PrinterSearching\FindPrinter\FindPrinter\bin\Debug\FindPrinter.pdb
+C:\Users\damccue\Desktop\PrinterSearching\FindPrinter\FindPrinter\obj\Debug\FindPrinter.csproj.AssemblyReference.cache
+C:\Users\damccue\Desktop\PrinterSearching\FindPrinter\FindPrinter\obj\Debug\FindPrinter.csproj.CoreCompileInputs.cache
+C:\Users\damccue\Desktop\PrinterSearching\FindPrinter\FindPrinter\obj\Debug\FindPrinter.exe.manifest
+C:\Users\damccue\Desktop\PrinterSearching\FindPrinter\FindPrinter\obj\Debug\FindPrinter.application
+C:\Users\damccue\Desktop\PrinterSearching\FindPrinter\FindPrinter\obj\Debug\FindPrinter.exe
+C:\Users\damccue\Desktop\PrinterSearching\FindPrinter\FindPrinter\obj\Debug\FindPrinter.pdb
